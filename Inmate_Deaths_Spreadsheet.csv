@@ -1,0 +1,52 @@
+Name,DOB,Race,Gender,BA #,Suicide ,Natural Causes,Died at Facility,Died at Hospital,Date of Death,Last Housing Location
+"Harrington, Patrick",6/27/1963,White,Male,204002489,No,Yes,No,Yes,1/25/2004,KCCF
+"Brown, Wade",5/27/1953,White,Male,204012685,No,Yes,Yes,No,4/6/2004,KCCF
+"Bloomer, John",12/30/1939,White,Male,204022487,No,Yes,No,Yes,8/31/2004,EHD
+"Johnson, Brian",9/6/1963,White,Male,204029043,No,Yes,No,Yes,10/7/2004,KCCF
+"Ingham, Thomas",2/23/1942,White,Male,204012014,Yes,No,No,No,10/27/2004,EHD
+"Owens, Sabrina",7/22/1968,Black,Female,205017759,Yes,No,No,Yes,5/11/2005,KCCF
+"Watkins, Richard ",11/2/1950,White,Male,205010598,No,Yes,No,Yes,6/10/2005,RJC
+"Hicks, Ronald",6/28/1962,Black,Male,204025442,Yes,No,Yes,No,7/26/2005,KCCF
+"Lim, Sokphyrome",5/27/1991,Asian,Male,250004509,No,Yes,No,Yes,12/26/2005,JUV
+"Crew, Henry",11/5/1948,White,Male,206005681,No,Yes,No,Yes,2/21/2006,KCCF
+"Johnson, Shane",5/24/1977,White,Male,206013871,Yes,No,No,No,4/12/2006,WER
+"Green, Francisco",1/13/1983,Black,Male,205046879,No,No,No,Yes,4/22/2006,WER
+"Crowder, Sammy",2/20/1960,White,Male,206024291,No,Yes,No,Yes,7/26/2006,KCCF
+"Alexander, Jeffrey",6/8/1953,White,Male,206037111,No,No,No,Yes,9/14/2006,KCCF
+"Whiteshield, James",1/26/1989,Native American,Male,JCN 199149,No,No,No,Yes,1/21/2007,JUV
+"Dillon, Tavares",7/23/1978,Black,Male,207007672,No,No,No,Yes,2/21/2007,KCCF
+"Iszley, Lynn",2/9/1960,White,Male,207030519,No,Yes,Yes,No,7/19/2007,KCCF
+"Parker, Gregory M",2/1/1976,White,Male,207032203,No,Yes,No,Yes,8/10/2007,HMC
+"Matthew, Karen",4/9/1956,White,Female,207040216,No,No,No,No,9/17/2007,KCCF
+"Hyler, Mark A",12/21/1961,White,Male,207040932,No,No,No,Yes,10/4/2007,WER
+"Cole, Ruth",3/18/1952,Black,Female,207038749,No,Yes,Yes,No,10/8/2007,KCCF
+"Wicker, Marc S",1/26/1958,White,Male,207054024,No,Yes,No,Yes,1/12/2008,KCCF
+"Carr, Richard J",3/13/1948,White,Male,207050169,No,Yes,No,Yes,1/28/2008,KCCF
+"Pham, Al V",9/20/1956,Asian,Male,207052131,No,Yes,No,Yes,5/16/2008,WER
+"Tomyn, Tommy ",9/3/1961,Asian,Male,208028492,Yes,No,No,Yes,7/25/2008,Abstentia
+"Justice, Daphney",8/19/1957,Black,Male,208037222,No,Yes,No,Yes,1/14/2009,KCCF
+"Demmert, Joseph",9/13/1981,White,Male,209019509,No,No,No,Yes,6/4/2009,KCCF
+"Antill, Franklin",5/4/1973,White,Male,208041574,Yes,No,Yes,No,7/3/2009,KCCF
+"Parrish, Scott D",12/29/1964,White,Male,209029575,No,Yes,Yes,No,8/20/2009,KCCF
+"Goldner, Christopher",1/21/1978,White,Male,210009336,Yes,No,Yes,No,8/16/2010,KCCF
+"Smail, Ronald E",1/19/1955,White,Male,210028620,No,Yes,No,Yes,8/26/2010,RJC
+"Sharkey, Arnold R",8/25/1965,White,Male,210029209,Yes,No,No,Yes,9/13/2010,KCCF
+"Scovell, Laura A",1/20/1968,White,Female,210030447,No,Yes,Yes,No,9/20/2010,RJC
+"Robertson, Ryan L",10/19/1977,White,Male,210032068,Yes,No,No,Yes,9/28/2010,KCCF
+"Payne, George F",1/28/1981,White,Male,210034717,Yes,No,Yes,No,11/30/2010,WER
+"Chicas, Louis",7/28/1981,White,Male,211012299,Yes,No,Yes,No,5/19/2011,RJC
+"Peoples, Patricia A",5/15/1963,Black,Female,209004493,No,Yes,No,No,8/26/2011,EHM
+"Vittone, Domenic A",3/30/1962,White,Male,211027731,Yes,No,Yes,No,9/12/2011,KCCF
+"Holmes, Diane L",2/21/1971,White,Female,212007335,No,Yes,No,Yes,3/26/2012,KCCF
+"Jones, Timothy M",5/14/1978,White,Male,212009159,No,Yes,No,Yes,4/24/2012,KCCF
+"Carver, Heidi K",5/19/1985,White,Female,212024624,No,Yes,No,Yes,9/26/2012,KCCF
+"Tillett, Djalma Malini",6/6/1983,Black,Male,212019341,Yes,No,Yes,No,10/3/2012,KCCF
+"Tucker, Archie",5/14/1946,Black,Male,212027510,No,Yes,No,Yes,10/20/2012,HMC
+"Allen, Brittania",4/19/1980,Black,Female,213002316,No,Unknown,Yes,No,1/31/2013,KCCF
+"Anderson, Travis Cord",2/21/1974,White,Male,213033498,Yes,No,Yes,No,12/26/2013,RJC
+"Somes, Jeffrey Arthur",4/15/1986,White,Male,214009659,No,No,No,No,5/16/2014,KCCF
+"Duggins, Dion Deville",7/4/1970,Black,Male,214017261,No,Yes,Yes,No,6/24/2014,KCCF
+"Seela, Roger Dennis",1/21/1972,American Indian,Male,214008875,No,Yes,Yes,No,11/30/2014,KCCF
+"Burris, Brandon Dean",1/29/1988,White,Male,215011560,No,Yes,Yes,No,5/1/2015,RJC
+"Zambryski, Nathan Adam",11/4/1983,White,Male,215012072,No,Yes,No,Yes,5/4/2015,KCCF
+"Simonsen, Rose Hope",10/9/1978,White,Female,215022971,TBD,TBD,No,Yes,8/28/2015,KCCF
